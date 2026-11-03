@@ -20,9 +20,6 @@ npm install
 npm run dev
 ```
 
-Abra http://localhost:3000.
-
-Se a API estiver em outro endereço, crie um arquivo `.env.local`:
 
 ```
 NEXT_PUBLIC_API_URL=http://localhost:5000
